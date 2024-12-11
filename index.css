@@ -367,7 +367,7 @@ html {
   margin-top: 4rem;
   position: relative;
   padding: 80px 0;
-  background-image: url("assets/Spinal-cord.png");
+  background-image: url("assets/pediatric-banner.jpg");
   background-size: cover;
   background-position: center;
   background-color: #fffbda;
@@ -525,6 +525,7 @@ html {
   border-radius: 100px;
   cursor: pointer;
   font-weight: bold;
+  /* width: 100%; */
 }
 
 .submit-btn:hover {
